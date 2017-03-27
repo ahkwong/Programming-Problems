@@ -1,0 +1,9 @@
+apple
+banana
+orange
+strawberry
+kiwi
+berries
+plum
+orange
+watermelon
